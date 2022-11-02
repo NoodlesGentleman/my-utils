@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/NoodlesGentleman/my-utils#readme",
   "dependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
     "release-it": "^15.5.0"
   }
 }
